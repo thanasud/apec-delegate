@@ -23,12 +23,12 @@ The skill checks the exact model identifier before dispatch. Model availability 
 Clone this repository, then copy `SKILL.md` into your personal Codex skills directory:
 
 ```sh
-git clone https://github.com/<owner>/apec-delegate.git
+git clone https://github.com/thanasud/apec-delegate.git
 mkdir -p ~/.codex/skills/apec-delegate
 cp apec-delegate/SKILL.md ~/.codex/skills/apec-delegate/SKILL.md
 ```
 
-Replace `<owner>` with the GitHub account or organization that owns the repository. Start a new Codex session after installation.
+Start a new Codex session after installation.
 
 ## Usage
 
